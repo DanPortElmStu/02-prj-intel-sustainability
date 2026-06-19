@@ -39,7 +39,7 @@ img {
 }
 
 .hero-content {
-  max-width: 900px;
+  max-width: 1000px;
   margin: 0 auto;
   text-align: center;
 }
@@ -57,6 +57,7 @@ img {
 .hero p {
   max-width: 680px;
   margin: 0 auto;
+  font-size: 1.15rem;
   color: rgba(255, 255, 255, 0.85);
 }
 
